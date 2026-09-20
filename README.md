@@ -1,4 +1,4 @@
-# 2-D Modal Active Noise Control (ANC) with k-Wave
+# Modal Active Noise Control (ANC) with k-Wave
 
 A MATLAB reference implementation of a **2-D circular-harmonic (modal) multichannel active noise control**
 system, simulated on a rigid barrier-with-slit acoustic domain using the
